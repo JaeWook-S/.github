@@ -9,16 +9,16 @@
 ### 🎓 Education
 * Inha University,  
 B.S. in Artificial Intelligence Engineering, Minor in Statistics `2021.03 ~`
----
+
 ### 😄 Interests
 * Robotics
 * Computer Vision
 * Reinforcement Learning
----
+
 ### 📧 Contact
 * Email: [jaewook8175@naver.com](mailto:jaewook8175@naver.com)
 
----
+
 ### Additional Information
 * If you want to see more information about me, here is my CV.
 
