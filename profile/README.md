@@ -5,17 +5,17 @@
 </div>
 
 <!-- About me Section -->
-## 🔭 About me
-### 🎓 Education
+## About me
+### Education
 * Inha University,  
 B.S. in Artificial Intelligence Engineering, Minor in Statistics `2021.03 ~`
 
-### 😄 Interests
+### Interests
 * Robotics
 * Computer Vision
 * Reinforcement Learning
 
-### 📧 Contact
+### Contact
 * Email: [jaewook8175@naver.com](mailto:jaewook8175@naver.com)
 
 
@@ -24,16 +24,16 @@ B.S. in Artificial Intelligence Engineering, Minor in Statistics `2021.03 ~`
 * If you want to see more information about me, here is my CV.
 
 <!-- Project Section -->
-## 🚀 Main Project
-### ⚽️ RoboCup 2026
+## Main Project
+### RoboCup 2026
 
-### 🦠 ICD Generative Model
+### ICD Generative Model
 
 
 <!-- Skill Section -->
 <div>
 
-## ⚡ Skills ⚡
+## Skills
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=white)
