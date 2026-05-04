@@ -54,4 +54,5 @@ B.S. in Artificial Intelligence Engineering, Minor in Statistics `2021.03 ~`
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
+
  </div>
