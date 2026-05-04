@@ -20,14 +20,16 @@ B.S. in Artificial Intelligence Engineering, Minor in Statistics `2021.03 ~`
 
 
 ### Additional Information
-* My Project Page github.io
-* If you want to see more information about me, here is my CV.
+<!-- CV 링크 넣기 -->
+* [My Project Page 🔗](https://jaewook-s.github.io/)
+* If you want to see more information about me, here is my [CV]().
 
 <!-- Project Section -->
 ## Main Project
-### RoboCup 2026
 
-### ICD Generative Model
+### ⚽️ RoboCup 2026
+
+### 🦠 ICD Generative Model
 
 
 <!-- Skill Section -->
