@@ -22,6 +22,12 @@ B.S. in Artificial Intelligence Engineering, Minor in Statistics `2021.03 ~`
 ### Additional Information
 * If you want to see more information about me, here is my CV.
 
+<!-- Project Section -->
+## 🚀 Project
+### ⚽️ RoboCup 2026
+
+### 🦠 ICD Generative Model
+
 
 <!-- Skill Section -->
 <div>
