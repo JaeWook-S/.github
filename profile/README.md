@@ -28,9 +28,10 @@ B.S. in Artificial Intelligence Engineering, Minor in Statistics `2021.03 ~`
 ## Main Project
 
 ### ⚽️ RoboCup 2026
+[Go to Repository](https://github.com/JaeWook-S/RoboCup2026)
 
 ### 🦠 ICD Generative Model
-
+[Go to Repository](https://github.com/JaeWook-S/ICD_GUI)
 
 <!-- Skill Section -->
 <div>
